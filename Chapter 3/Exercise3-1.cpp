@@ -8,7 +8,6 @@
 //Goal: Assign the integer value of mychar into myint using chat_ptr
 
 #include <iostream>
-#include <iomanip>
 
 using namespace std;
 
